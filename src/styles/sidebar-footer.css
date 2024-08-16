@@ -1,5 +1,6 @@
 body {
     background-color: #000;
+    background:#aa47ecf8;
     font-family: var(--font-dm-sans);
 }
 
@@ -23,7 +24,7 @@ h1{
 
 .sidebar__navigation.logo{
     background: #121212;
-    display: flex;
+     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
 }
@@ -36,6 +37,7 @@ h1{
 .logo img {
     width:80px;
     padding:16px 0 0 16px;
+    
 }
 .sidebar ul li{
     padding: 10px 0;
@@ -178,7 +180,7 @@ h1{
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(to right, #ae2896, #509bf5);
+    background: linear-gradient(to right, #c49ee7, #60039e);
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
